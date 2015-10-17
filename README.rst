@@ -1,15 +1,7 @@
-===============================
-networking-ibm
-===============================
+This project is no longer maintained.
 
-IBM Networking drivers
+The contents of this repository are still available in the Git source code
+management system. To see the contents of this repository before it reached
+its end of life, please check out the previous commit with 
+"git checkout HEAD^1".
 
-* Free software: Apache license
-* Documentation: http://docs.openstack.org/developer/networking-ibm
-* Source: http://git.openstack.org/cgit/openstack/networking-ibm
-* Bugs: http://bugs.launchpad.net/networking-ibm
-
-Features
---------
-
-* TODO
